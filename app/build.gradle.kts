@@ -151,7 +151,7 @@ android {
     }
     androidResources { generateLocaleConfig = true }
 
-    namespace = "com.junkfood.seal"
+    namespace = "com.shahab.clip"
 }
 
 ktfmt { kotlinLangStyle() }
